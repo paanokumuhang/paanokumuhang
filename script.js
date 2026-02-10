@@ -226,7 +226,7 @@ document.addEventListener('DOMContentLoaded', () => {
           'This website does not collect personal information directly from users. However, third-party services like Google AdSense may collect data such as cookies and usage behavior for the purpose of serving ads.',
           'By using this site, you agree to the use of such services. You can control your ad preferences via your Google account.',
           'We do not share your information with any third party outside of what\'s required for displaying ads or analytics.',
-          'For questions, please contact us at your@email.com.'
+          'For questions, please contact us at paanokumuhang@gmail.com.'
         ]
       }
     }
