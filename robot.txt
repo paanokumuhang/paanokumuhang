@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://paanokumuhang.github.io/paanokumuhang/sitemap.xml
