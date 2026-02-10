@@ -185,7 +185,7 @@ document.addEventListener('DOMContentLoaded', () => {
           { heading: 'Request PhilHealth ID (optional)', text: 'After receiving your PIN, request an ID card if available.' }
         ],
         requirementsTitle: 'Requirements',
-        reqList: ['PhilHealth Registration Form (PMRF)', 'Valid ID', 'Birth Certificate (new members only)'],
+        reqList: ['📄PhilHealth Registration Form (PMRF)', '🪪Valid ID', '📄Birth Certificate (new members only)'],
         govIds: ['UMID', 'Driver\'s License', 'Passport']
       },
       sss: {
@@ -201,7 +201,7 @@ document.addEventListener('DOMContentLoaded', () => {
           { heading: 'Receive your SSS Number', text: 'After validation, your permanent SSS Number will be issued.' }
         ],
         requirementsTitle: 'Requirements',
-        reqList: ['Valid Government ID', 'PSA Birth Certificate', 'Completed E-1 Form'],
+        reqList: ['🪪Valid Government ID', '📄PSA Birth Certificate', '📄Completed E-1 Form'],
         govIds: ['UMID', 'Driver\'s License', 'Passport']
       },
       bir: {
@@ -217,7 +217,7 @@ document.addEventListener('DOMContentLoaded', () => {
           { heading: 'Receive your TIN', text: 'Receive your TIN slip or card after processing.' }
         ],
         requirementsTitle: 'Requirements',
-        reqList: ['Valid Government ID', 'PSA Birth Certificate', 'BIR Form 1901 / 1902'],
+        reqList: ['🪪Valid Government ID', '📄PSA Birth Certificate', '📄BIR Form 1901 / 1902'],
         govIds: ['UMID', 'Driver\'s License', 'Passport']
       },
       privacy: {
